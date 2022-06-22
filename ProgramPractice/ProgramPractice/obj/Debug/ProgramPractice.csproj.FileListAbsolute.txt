@@ -1,0 +1,8 @@
+D:\c tutorial\ProgramPractice\ProgramPractice\bin\Debug\ProgramPractice.exe.config
+D:\c tutorial\ProgramPractice\ProgramPractice\bin\Debug\ProgramPractice.exe
+D:\c tutorial\ProgramPractice\ProgramPractice\bin\Debug\ProgramPractice.pdb
+D:\c tutorial\ProgramPractice\ProgramPractice\obj\Debug\ProgramPractice.csproj.AssemblyReference.cache
+D:\c tutorial\ProgramPractice\ProgramPractice\obj\Debug\ProgramPractice.csproj.SuggestedBindingRedirects.cache
+D:\c tutorial\ProgramPractice\ProgramPractice\obj\Debug\ProgramPractice.csproj.CoreCompileInputs.cache
+D:\c tutorial\ProgramPractice\ProgramPractice\obj\Debug\ProgramPractice.exe
+D:\c tutorial\ProgramPractice\ProgramPractice\obj\Debug\ProgramPractice.pdb
